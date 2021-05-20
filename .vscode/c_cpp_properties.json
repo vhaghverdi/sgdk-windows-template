@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "SGDK Windows",
+      "includePath": ["${workspaceFolder}/**", "${env:GDK}/**", "inc", "res"],
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
